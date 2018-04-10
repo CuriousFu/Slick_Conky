@@ -1,1 +1,3 @@
-1. You need install conky-lua
+![](https://raw.githubusercontent.com/CuriousFu/Slick_Conky/master/Slick_Conky/preview.png)
+**NOTICE:**
+You need install conky-lua.
